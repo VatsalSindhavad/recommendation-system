@@ -1,0 +1,16 @@
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+/data/
+/results/
+*.zip
+*.pdf
+*.pth
+*.pem
+*.key
+/evaluation/experiment_results.csv
